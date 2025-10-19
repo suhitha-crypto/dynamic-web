@@ -1,0 +1,4 @@
+# requirements.txt
+Flask
+gunicorn
+# Add any other Python libraries your app uses
