@@ -16,6 +16,3 @@ height:100vh;background:linear-gradient(135deg, #667eea, #764ba2);color:white;">
     </div>
 </body>
 """
-
-if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=8080, debug=True)
