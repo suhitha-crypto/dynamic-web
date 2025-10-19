@@ -1,4 +1,3 @@
-# requirements.txt
 Flask
 gunicorn
-# Add any other Python libraries your app uses
+psycopg2-binary  # Use this instead of 'psycopg2' to avoid lengthy compilation
